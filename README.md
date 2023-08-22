@@ -1,5 +1,10 @@
 # Flutter Firebase
 
+Manual Setup Apply
+
+## Firebase Project Name
+    
+    fluter
 
 ## Firebase Tools:
 1.   [FlutterFire](https://firebase.flutter.dev/docs/overview)
